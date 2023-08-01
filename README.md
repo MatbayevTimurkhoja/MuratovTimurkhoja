@@ -1,6 +1,6 @@
-# Hello my name is Matbayev Timurkho'ja
+Hello my name is Matbayev Timurkho'ja
 
-
+----
 
 ### :man_technologist: About Me:
 
