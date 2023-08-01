@@ -1,3 +1,6 @@
+
+
+
 <h1>Hello my name is Matbayev Timurkho'ja</h1>
 
 ----
@@ -7,7 +10,7 @@
 I am a beginner web developer. My path in IT started from School 13 where I learned the basic knowledge of the Python language. After the intensive, there was a gap of a couple of months where I was looking for training centers to improve my knowledge in the Python language. And when I was looking, I was hooked by web development! From November 2022 to April 2023, I studied web development at the "BPO School" courses. And when I completed the course with honors, I was offered an internship for 3 months, which I agreed to. At the moment, my training and internship on the course is completed and I am in the study of knowledge at the First IT Academy in Central Asia ASTRUM in parallel with this, I became a Senior student at the academy and help beginners learn web development!
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="800" height="200" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 - :telescope: Участвовал в бассейне Школы 21 от Сбера.
@@ -108,5 +111,4 @@ I am a beginner web developer. My path in IT started from School 13 where I lear
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
 
