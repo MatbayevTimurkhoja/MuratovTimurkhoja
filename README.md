@@ -13,15 +13,22 @@ I am a beginner web developer. My path in IT started from School 13 where I lear
  <img width="800" height="200" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+- :coffee: Participated in Code{Fest} hackathon.
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+-  :zap: I am a student at Astrum Academy
 
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+- :school: Completed a course and internship in web development
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: How to contact me:
+<div style="padding-left: 50px;">
+ <a href="https://twitter.com/https://twitter.com/timur_matbayev" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+ </a>
+ <a href="https://www.facebook.com/rdh" target="_blank">
+  <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+ </a>
+</div>
 
----
 
 ### 🤝 Социальные сети:
 
