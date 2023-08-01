@@ -1,4 +1,4 @@
-<h1 style="font-size: 96px; font-weight: 600;">Hello my name is Matbayev Timurkho'ja</h1>
+<h1 style="font-size: 206px; font-weight: 600;">Hello my name is Matbayev Timurkho'ja</h1>
 
 ----
 
