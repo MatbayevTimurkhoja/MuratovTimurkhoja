@@ -75,12 +75,18 @@ I am a beginner web developer. My way in IT started at school 13, where I learnt
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=MuratovTimurkhoja&theme=dark&background=000000" alt="webDev's Github stats" />
+      <a href="https://github.com/MuratovTimurkhoja" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuratovTimurkhoja&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MuratovTimurkhoja&layout=compact&theme=vision-friendly-dark" />
+<a href="http://www.github.com/MuratovTimurkhoja"><img src="https://github-readme-stats.vercel.app/api?username=MuratovTimurkhoja&show_icons=true&hide=prs,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="MuratovTimurkhoja's GitHub stats" /></a>
     </td>
   </tr>
 </table>
 
+----
 
+### ⚙️ Git Hub Top Repositories:
+
+<div width="100%" align="center"><a href="https://github.com/MuratovTimurkhoja/My_Levenshtein" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratovTimurkhoja&repo=My_Levenshtein&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>
+
+<div width="100%" align="center"><a href="https://github.com/MuratovTimurkhoja/My_First_Backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MuratovTimurkhoja&repo=My_First_Backend&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div>
