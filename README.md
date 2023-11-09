@@ -7,7 +7,7 @@
 
 ### :man_technologist: About Me:
 
-I am a beginner web developer. My way in IT started at school 13, where I learnt basic knowledge of the Python language. After that, I looked for training centers to improve my knowledge of the Python language. So, there was a break a couple of month.While I was looking, I was interested in web development! From November 2022 to April 2023, I studied web development at the BPO School courses. And when I finished the course with great result, I was offered an internship for 3 months, which I agreed to.Then my training and internship on the course have been completed.Furtheremore I am studying knowledge at the First IT Academy in Central Asia ASTRUM. On the other hand, I became a Senior student of the academy and help beginners to learn web development!
+I am a Junior web developer. My way in IT started at school 13, where I learnt basic knowledge of the Python language. After that, I looked for training centers to improve my knowledge of the Python language. So, there was a break a couple of month.While I was looking, I was interested in web development! From November 2022 to April 2023, I studied web development at the BPO School courses. And when I finished the course with great result, I was offered an internship for 3 months, which I agreed to.Then my training and internship on the course have been completed.Furtheremore I am studying knowledge at the First IT Academy in Central Asia ASTRUM. On the other hand, I became a Senior student of the academy and help beginners to learn web development!
 
 <p align="center">
  <img width="800" height="200" src="assets/github-snake.svg" alt="snake"/>
